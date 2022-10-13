@@ -1,7 +1,7 @@
 ## Add your name and GitHub down below
 
 1. [Matthew Sharp](https://github.com/MattSharp05)
-2. 
+2. [Linda Nguyen](https://github.com/lindaislinda)
 
 
 ## Add your ideas for future GDSC Workshops
